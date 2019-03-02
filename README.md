@@ -6,7 +6,7 @@
     <div>
       <br />
       <sub>Licensed under <a href='https://github.com/diegopastor/awesome-soccer-analytics/blob/master/LICENSE'>The MIT License<a/>.</sub>
-      <sub>Logo made with <a href="https://www.designevo.com/en/" title="Free Online Logo Maker">DesignEvo<a/>.</sub>
+      <sub>Logo made with <a href="https://www.designevo.com/en/" title="Free Online Logo Maker">DesignEvo<a/></sub>
     </div>
   </div>
   <br /><br />
@@ -19,6 +19,7 @@
 ## Contents
 
 - [Datasets](#Datasets)
+- [Book](#Book)
 
 ## Live Data and Datasets
 
@@ -28,11 +29,15 @@
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|★★★|[SofaScore](https://www.sofascore.com)| Live scores, results and tables. Includes players
-detailed statistics, a SofaScore rating for each player, the Match "Attack Momentum" and much more |
+|★★★|[SofaScore](https://www.sofascore.com)| Live scores, results and tables. Includes players detailed statistics, a SofaScore rating for each player, the Match "Attack Momentum" and much more |
+|★★☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football
+datasets including national teams, clubs, match schedules, players, stadiums, etc. |
+football data |
 |★☆☆|[StatsBomb Open Data](https://github.com/statsbomb/open-data)| Datasets on FA Women's Super League, FIFA 2018 World Cup and NWSL |
-|★☆☆|[Footballcsv](https://github.com/footballcsv/eng-england)| Free open public domain football
-datasets in csv format for the EPL, Football League and Football Conference from 1880 to today|
+|★☆☆|[Footballcsv](https://github.com/footballcsv/eng-england)| Free open public domain football datasets in csv format for the EPL, Football League and Football Conference from 1880 to today|
+|★☆☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football
+datasets including national teams, clubs, match schedules, players, stadiums, etc. |
+football data |
 
 ## Books
 
