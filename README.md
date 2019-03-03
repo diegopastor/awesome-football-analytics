@@ -18,36 +18,37 @@
 
 ## Contents
 
-- [Datasets](#Datasets)
-- [Book](#Book)
-
-## Live Data and Datasets
+- [Live Data and Datasets](#Live-Data-and-Datasets)
+- [Articles](#Articles)
+- [Books](#Books)
 
 ★☆☆ - Good\
 ★★☆ - Great\
 ★★★ - Awesome
 
+## Live Data and Datasets
+
 | ☆ | Name | Comments |
 | --- | --- | --- |
 |★★★|[SofaScore](https://www.sofascore.com)| Live scores, results and tables. Includes players detailed statistics, a SofaScore rating for each player, the Match "Attack Momentum" and much more |
-|★★☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football
-datasets including national teams, clubs, match schedules, players, stadiums, etc. |
-football data |
+|★★☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 |★☆☆|[StatsBomb Open Data](https://github.com/statsbomb/open-data)| Datasets on FA Women's Super League, FIFA 2018 World Cup and NWSL |
 |★☆☆|[Footballcsv](https://github.com/footballcsv/eng-england)| Free open public domain football datasets in csv format for the EPL, Football League and Football Conference from 1880 to today|
 |★☆☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football
 datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 football data |
 
-## Books
-
-★☆☆ - Good\
-★★☆ - Great\
-★★★ - Awesome
+## Articles
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|☆☆☆|[Basketball on Paper](https://www.nebraskapress.unl.edu/potomac-books/9781574886887/)| An introduction to performance analysis in Basketball. (Some ideas could be extrapolated) |
+|★★★|[StatsBomb](https://statsbomb.com)| |
+
+## Books
+
+| ☆ | Name | Comments |
+| --- | --- | --- |
+|☆☆☆|[Basketball on Paper](https://www.nebraskapress.unl.edu/potomac-books/9781574886887/)| An introduction to performance analysis in Basketball. (Some ideas could be extrapolated to soccer) |
 |☆☆☆|[Soccernomics](https://www.amazon.com/Soccernomics-England-Germany-Australia-Destined/dp/1568584814)| |
 |☆☆☆|[The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/dp/0241963621)| |
 |☆☆☆|[Soccermatics ](https://www.bloomsbury.com/uk/soccermatics-9781472924124/)| |
