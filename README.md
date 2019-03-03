@@ -16,6 +16,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A curated list of soccer analytics resources and links. For contributing to the list please refer to
+the [CONTRIBUTING.md](CONTRIBUTING.md) document.
+
 ## Contents
 
 - [Live Data and Datasets](#Live-Data-and-Datasets)
@@ -34,9 +37,7 @@
 |★★☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 |★☆☆|[StatsBomb Open Data](https://github.com/statsbomb/open-data)| Datasets on FA Women's Super League, FIFA 2018 World Cup and NWSL |
 |★☆☆|[Footballcsv](https://github.com/footballcsv/eng-england)| Free open public domain football datasets in csv format for the EPL, Football League and Football Conference from 1880 to today|
-|★☆☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football
-datasets including national teams, clubs, match schedules, players, stadiums, etc. |
-football data |
+|★☆☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 
 ## Articles
 
