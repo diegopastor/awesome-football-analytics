@@ -22,10 +22,12 @@ the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 ## Contents
 
 - [Live Data and Datasets](#Live-Data-and-Datasets)
+    - [APIs](#APIs)
 - [Articles](#Articles)
 - [Books](#Books)
 - [Tools](#Tools)
 
+☆☆☆ - Rating Pending\
 ★☆☆ - Good\
 ★★☆ - Great\
 ★★★ - Awesome
@@ -41,6 +43,14 @@ the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 |★☆☆|[Footballcsv](https://github.com/footballcsv/eng-england)| Free open public domain football datasets in csv format for the EPL, Football League and Football Conference from 1880 to today|
 |★☆☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 |★☆☆|[International Soccer Results from 1872 to 2018](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017)| Data on men's international football matches ranging from FIFA World Cup to FIFI Wild Cup to regular friendly matches. |
+|☆☆☆|[Free open public domain football data](http://openfootball.github.io)| Free open public domain football data |
+|☆☆☆|[Football Data](https://github.com/jokecamp/FootballData)| "A hodgepodfe of JSON and CSV Football data" |
+|☆☆☆|[Joe Kampschmidt's Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)| A list of datasets and APIs (Some listed here as well)| 
+
+### APIs
+
+|☆☆☆|[football-data.org](https://www.football-data.org)| Free API with seasons, fixtures, teams and more |
+
 
 ## Articles
 
@@ -62,5 +72,4 @@ the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|☆☆☆|[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize
-football data |
+|☆☆☆|[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
