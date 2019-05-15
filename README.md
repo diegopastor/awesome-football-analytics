@@ -54,7 +54,7 @@ or a `Comment` are also welcome.
 |★☆☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 |★☆☆|[International Soccer Results from 1872 to 2018](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017)| Data on men's international football matches ranging from FIFA World Cup to FIFI Wild Cup to regular friendly matches. |
 |☆☆☆|[Free open public domain football data](http://openfootball.github.io)| Free open public domain football data |
-|☆☆☆|[Football Data](https://github.com/jokecamp/FootballData)| "A hodgepodfe of JSON and CSV Football data" |
+|☆☆☆|[Football Data](https://github.com/jokecamp/FootballData)| "A hodgepodge of JSON and CSV Football data" |
 |☆☆☆|[Joe Kampschmidt's Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)| A list of datasets and APIs (Some listed here as well)| 
 
 ### APIs
@@ -102,5 +102,4 @@ or a `Comment` are also welcome.
 | ☆ | Name | Comments |
 | --- | --- | --- |
 |☆☆☆|[awesome-soccer-analytics Open Source Course](https://github.com/diegopastor/awesome-soccer-analytics/blob/master/COURSE.md)| A free self-taught course in Soccer Analytics! made by and for the community | 
-|☆☆☆|[StatsBomb's Resource Centre](https://statsbomb.com/resource-centre/)| Has two courses: "Introduction to
-Analytics for Professional Football" and "Coaching and Analysing Set Pieces" |
+|☆☆☆|[StatsBomb's Resource Centre](https://statsbomb.com/resource-centre/)| Has two courses: "Introduction to Analytics for Professional Football" and "Coaching and Analysing Set Pieces" |
