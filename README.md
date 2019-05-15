@@ -1,6 +1,6 @@
 <div align='center'>
   <br /><br /><br />
-  <img src='img/logo.png' alt='Awesome soccer analytics logo' />
+  <img src='img/logo.png' alt='Awesome soccer analytics logo'/>
   <br /><br /><br /><br />
   <div>
     <div>
@@ -17,22 +17,32 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/diegopastor/awesome-soccer-analytics)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
 
 A curated list of soccer analytics resources and links. For contributing to the list please refer to
-the [CONTRIBUTING.md](CONTRIBUTING.md) document.
+the [CONTRIBUTING.md](CONTRIBUTING.md) document. 
 
 ## Contents
 
-- [Live Data and Datasets](#Live-Data-and-Datasets)
-    - [APIs](#APIs)
-- [Articles](#Articles)
-- [Books](#Books)
-- [Tools](#Tools)
+- [Live Data and Historic Datasets](#Live-Data-and-Historic-Datasets) Football related historical datasets and live data feeds.
+    - [APIs](#APIs) APIs for obtaining football data
+- [Articles](#Articles) Places where you can find articles about football analytics in general
+    - [Papers](#Papers) Links to specific papers surrounding the topic of football analytics
+- [Books](#Books) Books covering a wide range of topics all related in someway to football analytics
+- [Tools](#Tools) Different pieces of software to help you obtain, treat and visualize data for football analytics.
+- [Courses](#Courses) Training courses in Football Analytics
 
-☆☆☆ - Rating Pending\
+## Rating System
+
+I encourage anyone who has gone through a resource that has a 'Rating Pending' and wants to
+contribute, to add a `Comment` and a `Rating` via a Pull Request. The system is quite relaxed and
+subjective. Good, great or awesome depending on how you feel about the specific resource. If the
+resource is not even "good" then it should not be on this list. Pull Requests to change a `Rating`
+or a `Comment` are also welcome. 
+
+☆☆☆ - Rating Pending (Nobody in the community has read, used or analysed the resource so review is pending.)\
 ★☆☆ - Good\
 ★★☆ - Great\
 ★★★ - Awesome
 
-## Live Data and Datasets
+## Live Data and Historic Datasets
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
@@ -58,8 +68,19 @@ the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|★★★|[StatsBomb](https://statsbomb.com)| Soccer analytics articles with a focus on the EPL. Covering a wide range of topics from scouting to goalkeeper analysis |
+|★★★|[StatsBomb's Articles](https://statsbomb.com/articles/)| Soccer analytics articles with a focus on the EPL. Covering a wide range of topics from scouting to goalkeeper analysis ("Breaking down set pieces" is pure gold)|
 |★★★|[Soccernurds](https://www.soccernurds.com/blog)| Soccer analytics articles with a focus on Mexico's LigaMX |
+
+### Papers
+
+| ☆ | Name | Comments |
+| --- | --- | --- |
+|☆☆☆|[A Data Driven Goalkeeper Evaluation Framework](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Data-Driven-Goalkeeper-Evaluation-Framework-1.pdf)| Comment |
+|☆☆☆|[Choke or Shine? Quantifying Soccer Players' Abilities to Perform Under Mental Pressure](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Choke-or-Shine-Quantifying-Soccer-Players-Abilities-to-Perform-Under-Mental-Pressure.pdf)| Comment |
+|☆☆☆|[Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Decomposing-the-Immeasurable-Sport.pdf)| Comment |
+|☆☆☆|[Training Schedule Confounds the Relationship between Acute: Chronic Workload Ratio and Injury](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Training-Schedule-Confounds-the-Relationship-between-Acute-Chronic-Workload-Ratio-and-Injury.pdf)| Comment |
+|☆☆☆|[Wide Open Spaces: A statistical technique for measuring space creation in professional soccer](http://www.lukebornn.com/papers/fernandez_ssac_2018.pdf)| Comment |
+|☆☆☆|[The Pressing Game: Optimal Defensive Disruption in Soccer](http://www.lukebornn.com/papers/bojinov_ssac_2016.pdf)| Comment |
 
 ## Books
 
@@ -75,3 +96,11 @@ the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 | ☆ | Name | Comments |
 | --- | --- | --- |
 |☆☆☆|[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
+
+## Courses
+
+| ☆ | Name | Comments |
+| --- | --- | --- |
+|☆☆☆|[awesome-soccer-analytics Open Source Course](https://github.com/diegopastor/awesome-soccer-analytics/blob/master/COURSE.md)| A free self-taught course in Soccer Analytics! made by and for the community | 
+|☆☆☆|[StatsBomb's Resource Centre](https://statsbomb.com/resource-centre/)| Has two courses: "Introduction to
+Analytics for Professional Football" and "Coaching and Analysing Set Pieces" |
