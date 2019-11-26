@@ -64,12 +64,18 @@ or a `Comment` are also welcome.
 |☆☆☆|[football-data.org](https://www.football-data.org)| Free API with seasons, fixtures, teams and more |
 
 
-## Articles
+## Blogs
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
 |★★★|[StatsBomb's Articles](https://statsbomb.com/articles/)| Soccer analytics articles with a focus on the EPL. Covering a wide range of topics from scouting to goalkeeper analysis ("Breaking down set pieces" is pure gold)|
 |★★★|[Soccernurds](https://www.soccernurds.com/blog)| Soccer analytics articles with a focus on Mexico's LigaMX |
+|☆☆☆|[Eighty Five Points](https://eightyfivepoints.blogspot.com)| |
+
+## Highlighted Blog Posts
+| ☆ | Name | Comments |
+| --- | --- | --- |
+|☆☆☆|[Using Data to Analyse Team Formations](https://eightyfivepoints.blogspot.com/2019/11/using-data-to-analyse-team-formations.html)| "" |
 
 ### Papers
 
@@ -77,10 +83,10 @@ or a `Comment` are also welcome.
 | --- | --- | --- |
 |☆☆☆|[A Data Driven Goalkeeper Evaluation Framework](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Data-Driven-Goalkeeper-Evaluation-Framework-1.pdf)| Comment |
 |☆☆☆|[Choke or Shine? Quantifying Soccer Players' Abilities to Perform Under Mental Pressure](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Choke-or-Shine-Quantifying-Soccer-Players-Abilities-to-Perform-Under-Mental-Pressure.pdf)| Comment |
-|☆☆☆|[Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Decomposing-the-Immeasurable-Sport.pdf)| Comment |
-|☆☆☆|[Training Schedule Confounds the Relationship between Acute: Chronic Workload Ratio and Injury](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Training-Schedule-Confounds-the-Relationship-between-Acute-Chronic-Workload-Ratio-and-Injury.pdf)| Comment |
-|☆☆☆|[Wide Open Spaces: A statistical technique for measuring space creation in professional soccer](http://www.lukebornn.com/papers/fernandez_ssac_2018.pdf)| Comment |
-|☆☆☆|[The Pressing Game: Optimal Defensive Disruption in Soccer](http://www.lukebornn.com/papers/bojinov_ssac_2016.pdf)| Comment |
+|☆☆☆|[Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Decomposing-the-Immeasurable-Sport.pdf)| "We can measure at every instance the expected value of the current possession by embedding deep learning (to capture 22-player spatio-temporal dynamics) within Markov models (for explainability)." |
+|☆☆☆|[Training Schedule Confounds the Relationship between Acute: Chronic Workload Ratio and Injury](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Training-Schedule-Confounds-the-Relationship-between-Acute-Chronic-Workload-Ratio-and-Injury.pdf)| "Using data in soccer and football, we illustrate that training schedule confounds the relationship between ACWR and injury, calling into question much of the previous literature on the subject." |
+|☆☆☆|[Wide Open Spaces: A statistical technique for measuring space creation in professional soccer](http://www.lukebornn.com/papers/fernandez_ssac_2018.pdf)| "Using tracking data, we can measure how soccer players create space both for themselves and for their teammates." |
+|☆☆☆|[The Pressing Game: Optimal Defensive Disruption in Soccer](http://www.lukebornn.com/papers/bojinov_ssac_2016.pdf)| "Using tracking data, we measure and visualize where soccer teams create defensive pressure throughout a match." |
 
 ## Books
 
