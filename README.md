@@ -92,10 +92,11 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|☆☆☆|[Basketball on Paper](https://www.nebraskapress.unl.edu/potomac-books/9781574886887/)| An introduction to performance analysis in Basketball. (Some ideas could be extrapolated to soccer) |
+|★★★ |[The Expected Goals Philosophy]()| A brisk, interesting introduction to concepts like xG, xA and xP, how we got there and stories that demonstrate the incredibly valuable potential of this approach for trying to better understand football. Well explained |
 |☆☆☆|[Soccernomics](https://www.amazon.com/Soccernomics-England-Germany-Australia-Destined/dp/1568584814)| |
 |☆☆☆|[The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/dp/0241963621)| |
 |☆☆☆|[Soccermatics ](https://www.bloomsbury.com/uk/soccermatics-9781472924124/)| |
+|☆☆☆|[Basketball on Paper](https://www.nebraskapress.unl.edu/potomac-books/9781574886887/)| An introduction to performance analysis in Basketball. (Some ideas could be extrapolated to soccer) |
 
 ## Tools
 
