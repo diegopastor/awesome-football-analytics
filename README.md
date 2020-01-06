@@ -5,7 +5,6 @@
   <div>
     <div>
       <br />
-      <sub>Licensed under <a href='https://github.com/diegopastor/awesome-football-analytics/blob/master/LICENSE'>The MIT License<a/>.</sub>
       <sub>Logo made with <a href="https://www.designevo.com/en/" title="Free Online Logo Maker">DesignEvo<a/></sub>
     </div>
   </div>
@@ -75,6 +74,7 @@ or a `Comment` are also welcome.
 |☆☆☆|[Eighty Five Points](https://eightyfivepoints.blogspot.com)| |
 
 ## Highlighted Blog Posts
+
 | ☆ | Name | Comments |
 | --- | --- | --- |
 |☆☆☆|[Using Data to Analyse Team Formations](https://eightyfivepoints.blogspot.com/2019/11/using-data-to-analyse-team-formations.html)| "" |
@@ -112,3 +112,13 @@ or a `Comment` are also welcome.
 | --- | --- | --- |
 |☆☆☆|[awesome-football-analytics Open Source Course](https://github.com/diegopastor/awesome-football-analytics/blob/master/COURSE.md)| A free self-taught course in football Analytics! made by and for the community | 
 |☆☆☆|[StatsBomb's Resource Centre](https://statsbomb.com/resource-centre/)| Has two courses: "Introduction to Analytics for Professional Football" and "Coaching and Analysing Set Pieces" |
+
+<div align='center'>
+  <div>
+    <div>
+      <br />
+      <sub>Licensed under <a href='https://github.com/diegopastor/awesome-football-analytics/blob/master/LICENSE'>The MIT License<a/>.</sub>
+    </div>
+  </div>
+  <br /><br />
+</div>
