@@ -47,6 +47,8 @@ or a `Comment` are also welcome.
 | ☆ | Name | Comments |
 | --- | --- | --- |
 |★★★|[SofaScore](https://www.sofascore.com)| Live scores, results and tables. Includes players detailed statistics, a SofaScore rating for each player, the Match "Attack Momentum" and much more |
+|★★★|[Understat](https://www.understat.com)| xG Data on Europe's top 5 Leagues ||
+|★★☆|[footballxG](https://footballxg.com)| Less rich xG Data for teams including Mexican, Argentinian and Brazilian leagues.|
 |★★☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 |★☆☆|[StatsBomb Open Data](https://github.com/statsbomb/open-data)| Datasets on FA Women's Super League, FIFA 2018 World Cup and NWSL |
 |★☆☆|[FiveThirtyEight Club Ranking](https://projects.fivethirtyeight.com/global-club-soccer-rankings/)| How 639 global clubs compare by FiveThirtyEight's own Soccer Power Index |
@@ -92,7 +94,7 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|★★★ |[The Expected Goals Philosophy]()| A brisk, interesting introduction to concepts like xG, xA and xP, how we got there and stories that demonstrate the incredibly valuable potential of this approach for trying to better understand football. Well explained |
+|★★★ |[The Expected Goals Philosophy](https://www.amazon.co.uk/dp/1089883188/ref=nav_signin?crid=3IY8FZB3FNOS6&keywords=the+expected+goals+philosophy&qid=1573369702&sprefix=The+Expected+goals%2Caps%2C145&sr=8-2&returnFromLogin=1&)| A brisk, interesting and well explained introduction to concepts like xG, xA and xP, how we got there and stories that demonstrate the incredibly valuable potential of this approach for trying to better understand football. |
 |☆☆☆|[Soccernomics](https://www.amazon.com/Soccernomics-England-Germany-Australia-Destined/dp/1568584814)| |
 |☆☆☆|[The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/dp/0241963621)| |
 |☆☆☆|[Soccermatics ](https://www.bloomsbury.com/uk/soccermatics-9781472924124/)| |
