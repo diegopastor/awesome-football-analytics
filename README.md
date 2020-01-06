@@ -1,7 +1,9 @@
+# Awesome football Analytics
+
 <div align='center'>
-  <br /><br /><br />
+  <br /><br />
   <img src='img/logo.png' alt='Awesome football analytics logo'/>
-  <br /><br /><br /><br />
+  <br /><br />
   <div>
     <div>
       <br />
@@ -10,8 +12,6 @@
   </div>
   <br /><br />
 </div>
-
-# Awesome football Analytics
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/diegopastor/awesome-football-analytics)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
 
@@ -45,8 +45,8 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|★★★|[SofaScore](https://www.sofascore.com)| Live scores, results and tables. Includes players detailed statistics, a SofaScore rating for each player, the Match "Attack Momentum" and much more |
 |★★★|[Understat](https://www.understat.com)| xG Data on Europe's top 5 Leagues ||
+|★★☆|[SofaScore](https://www.sofascore.com)| Live scores, lineups, standings and basic teams, coaches and players data |
 |★★☆|[footballxG](https://footballxg.com)| Less rich xG Data for teams including Mexican, Argentinian and Brazilian leagues.|
 |★★☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 |★☆☆|[StatsBomb Open Data](https://github.com/statsbomb/open-data)| Datasets on FA Women's Super League, FIFA 2018 World Cup and NWSL |
@@ -73,7 +73,7 @@ or a `Comment` are also welcome.
 |★★★|[Soccernurds](https://www.soccernurds.com/blog)| Football analytics articles with a focus on Mexico's LigaMX |
 |☆☆☆|[Eighty Five Points](https://eightyfivepoints.blogspot.com)| |
 
-## Highlighted Blog Posts
+### Highlighted Blog Posts
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
@@ -117,7 +117,7 @@ or a `Comment` are also welcome.
   <div>
     <div>
       <br />
-      <sub>Licensed under <a href='https://github.com/diegopastor/awesome-football-analytics/blob/master/LICENSE'>The MIT License<a/>.</sub>
+      <sub> Awesome Football Analytisc is licensed under <a href='https://github.com/diegopastor/awesome-football-analytics/blob/master/LICENSE'>The MIT License<a/>.</sub>
     </div>
   </div>
   <br /><br />
