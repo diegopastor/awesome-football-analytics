@@ -1,22 +1,22 @@
 <div align='center'>
   <br /><br /><br />
-  <img src='img/logo.png' alt='Awesome soccer analytics logo'/>
+  <img src='img/logo.png' alt='Awesome football analytics logo'/>
   <br /><br /><br /><br />
   <div>
     <div>
       <br />
-      <sub>Licensed under <a href='https://github.com/diegopastor/awesome-soccer-analytics/blob/master/LICENSE'>The MIT License<a/>.</sub>
+      <sub>Licensed under <a href='https://github.com/diegopastor/awesome-football-analytics/blob/master/LICENSE'>The MIT License<a/>.</sub>
       <sub>Logo made with <a href="https://www.designevo.com/en/" title="Free Online Logo Maker">DesignEvo<a/></sub>
     </div>
   </div>
   <br /><br />
 </div>
 
-# Awesome Soccer Analytics
+# Awesome football Analytics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/diegopastor/awesome-soccer-analytics)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/diegopastor/awesome-football-analytics)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
 
-A curated list of soccer analytics resources and links. For contributing to the list please refer to
+A curated list of football analytics resources and links. For contributing to the list please refer to
 the [CONTRIBUTING.md](CONTRIBUTING.md) document. 
 
 ## Contents
@@ -70,8 +70,8 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|★★★|[StatsBomb's Articles](https://statsbomb.com/articles/)| Soccer analytics articles with a focus on the EPL. Covering a wide range of topics from scouting to goalkeeper analysis ("Breaking down set pieces" is pure gold)|
-|★★★|[Soccernurds](https://www.soccernurds.com/blog)| Soccer analytics articles with a focus on Mexico's LigaMX |
+|★★★|[StatsBomb's Articles](https://statsbomb.com/articles/)| Football analytics articles with a focus on the EPL. Covering a wide range of topics from scouting to goalkeeper analysis ("Breaking down set pieces" is pure gold)|
+|★★★|[Soccernurds](https://www.soccernurds.com/blog)| Football analytics articles with a focus on Mexico's LigaMX |
 |☆☆☆|[Eighty Five Points](https://eightyfivepoints.blogspot.com)| |
 
 ## Highlighted Blog Posts
@@ -98,7 +98,7 @@ or a `Comment` are also welcome.
 |☆☆☆|[Soccernomics](https://www.amazon.com/Soccernomics-England-Germany-Australia-Destined/dp/1568584814)| |
 |☆☆☆|[The Numbers Game](https://www.amazon.co.uk/Numbers-Game-Everything-About-Football/dp/0241963621)| |
 |☆☆☆|[Soccermatics ](https://www.bloomsbury.com/uk/soccermatics-9781472924124/)| |
-|☆☆☆|[Basketball on Paper](https://www.nebraskapress.unl.edu/potomac-books/9781574886887/)| An introduction to performance analysis in Basketball. (Some ideas could be extrapolated to soccer) |
+|☆☆☆|[Basketball on Paper](https://www.nebraskapress.unl.edu/potomac-books/9781574886887/)| An introduction to performance analysis in Basketball. (Some ideas could be extrapolated to Football) |
 
 ## Tools
 
@@ -110,5 +110,5 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|☆☆☆|[awesome-soccer-analytics Open Source Course](https://github.com/diegopastor/awesome-soccer-analytics/blob/master/COURSE.md)| A free self-taught course in Soccer Analytics! made by and for the community | 
+|☆☆☆|[awesome-football-analytics Open Source Course](https://github.com/diegopastor/awesome-football-analytics/blob/master/COURSE.md)| A free self-taught course in football Analytics! made by and for the community | 
 |☆☆☆|[StatsBomb's Resource Centre](https://statsbomb.com/resource-centre/)| Has two courses: "Introduction to Analytics for Professional Football" and "Coaching and Analysing Set Pieces" |
