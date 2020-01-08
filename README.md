@@ -14,8 +14,10 @@
 </div>
 
 <div align='center'>
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/diegopastor/awesome-football-analytics)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
 </div>
+
+ <br /><br />
 
 A curated list of football analytics resources and links. For contributing to the list please refer to
 the [CONTRIBUTING.md](CONTRIBUTING.md) document. 
@@ -75,7 +77,7 @@ or a `Comment` are also welcome.
 |★★★|[Soccernurds](https://www.soccernurds.com/blog)| Football analytics articles with a focus on Mexico's LigaMX |
 |☆☆☆|[Eighty Five Points](https://eightyfivepoints.blogspot.com)| Pending Review |
 
-### Highlighted Blog Posts
+### Highlighted-Blog-Posts
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
