@@ -14,7 +14,7 @@
 </div>
 
 <div align='center'>
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
 </div>
 
  <br /><br />
