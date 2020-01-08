@@ -13,3 +13,7 @@
 ### xG 
 
 Original Source: https://www.qsao-queens.com/content/an-xguide-to-soccer-analytics
+
+## Books to read:
+
+- Introduction to Statistical Thought
