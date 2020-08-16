@@ -13,9 +13,7 @@
   <br /><br />
 </div>
 
-<div align='center'>
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)<img src="https://img.shields.io/badge/⚽-rolling%20around-lightgrey.svg">
-</div>
 
  <br /><br />
 
