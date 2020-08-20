@@ -106,6 +106,7 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
+|★★★ |[PCA-based model to find similar players](https://shielded-spire-02166.herokuapp.com)| Really cool. [Original Code](https://github.com/parth1902/PCA_Player_Finder) |
 |☆☆☆|[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
 
 ## Courses
