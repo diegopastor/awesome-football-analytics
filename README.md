@@ -56,6 +56,7 @@ or a `Comment` are also welcome.
 |★☆☆|[Footballcsv](https://github.com/footballcsv/eng-england)| Free open public domain football datasets in csv format for the EPL, Football League and Football Conference from 1880 to today|
 |★☆☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 |★☆☆|[International Soccer Results from 1872 to 2018](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017)| Data on men's international football matches ranging from FIFA World Cup to FIFI Wild Cup to regular friendly matches. |
+|☆☆☆|[Canadian Premiere League - Centre Circle Data](https://canpl.ca/centre-circle-data/)| Canadian Premiere League match data on clubs and players|
 |☆☆☆|[Free open public domain football data](http://openfootball.github.io)| Free open public domain football data |
 |☆☆☆|[Football Data](https://github.com/jokecamp/FootballData)| "A hodgepodge of JSON and CSV Football data" |
 |☆☆☆|[Joe Kampschmidt's Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)| A list of datasets and APIs (Some listed here as well)| 
@@ -66,7 +67,6 @@ or a `Comment` are also welcome.
 | --- | --- | --- |
 |☆☆☆|[football-data.org](https://www.football-data.org)| Free API with seasons, fixtures, teams and more |
 
-
 ## Blogs
 
 | ☆ | Name | Comments |
@@ -74,6 +74,10 @@ or a `Comment` are also welcome.
 |★★★|[StatsBomb's Articles](https://statsbomb.com/articles/)| Football analytics articles with a focus on the EPL. Covering a wide range of topics from scouting to goalkeeper analysis ("Breaking down set pieces" is pure gold)|
 |★★★|[Soccernurds](https://www.soccernurds.com/blog)| Football analytics articles with a focus on Mexico's LigaMX |
 |☆☆☆|[Eighty Five Points](https://eightyfivepoints.blogspot.com)| Pending Review |
+|☆☆☆|[Space Space Space Letter](https://www.spacespacespaceletter.com)| Pending Review |
+|☆☆☆|[American Soccer Analysis](https://www.americansocceranalysis.com)| Pending Review |
+|☆☆☆|[Get Goalside!](https://getgoalside.substack.com)| Pending Review |
+|☆☆☆|[Eoin Obrien](https://eoin-obrien.com)| Pending Review |
 
 ### Highlighted-Blog-Posts
 
@@ -91,6 +95,7 @@ or a `Comment` are also welcome.
 |☆☆☆|[Training Schedule Confounds the Relationship between Acute: Chronic Workload Ratio and Injury](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Training-Schedule-Confounds-the-Relationship-between-Acute-Chronic-Workload-Ratio-and-Injury.pdf)| "Using data in soccer and football, we illustrate that training schedule confounds the relationship between ACWR and injury, calling into question much of the previous literature on the subject." |
 |☆☆☆|[Wide Open Spaces: A statistical technique for measuring space creation in professional soccer](http://www.lukebornn.com/papers/fernandez_ssac_2018.pdf)| "Using tracking data, we can measure how soccer players create space both for themselves and for their teammates." |
 |☆☆☆|[The Pressing Game: Optimal Defensive Disruption in Soccer](http://www.lukebornn.com/papers/bojinov_ssac_2016.pdf)| "Using tracking data, we measure and visualize where soccer teams create defensive pressure throughout a match." |
+|☆☆☆|[Multifractal Analysis of Movement Behavior in Association Football](https://www.mdpi.com/2073-8994/12/8/1287/htm)| Pending Review |
 
 ## Books
 
