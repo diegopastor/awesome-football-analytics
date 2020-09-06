@@ -79,7 +79,7 @@ or a `Comment` are also welcome.
 |☆☆☆|[Get Goalside!](https://getgoalside.substack.com)| Pending Review |
 |☆☆☆|[Eoin Obrien](https://eoin-obrien.com)| Pending Review |
 
-### Highlighted-Blog-Posts
+### Highlighted-Blog-Posts
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
@@ -112,6 +112,7 @@ or a `Comment` are also welcome.
 | ☆ | Name | Comments |
 | --- | --- | --- |
 |★★★ |[PCA-based model to find similar players](https://shielded-spire-02166.herokuapp.com)| Really cool. [Original Code](https://github.com/parth1902/PCA_Player_Finder) |
+|★★★ |[Football Slices](https://www.footballslices.com)| Radars for 2,874 players from Europe's top 5 leagues, with stats from the 2018/19 and 2019/20 seasons. |
 |☆☆☆|[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
 
 ## Courses
