@@ -56,6 +56,7 @@ or a `Comment` are also welcome.
 |★☆☆|[Footballcsv](https://github.com/footballcsv/eng-england)| Free open public domain football datasets in csv format for the EPL, Football League and Football Conference from 1880 to today|
 |★☆☆|[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
 |★☆☆|[International Soccer Results from 1872 to 2018](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017)| Data on men's international football matches ranging from FIFA World Cup to FIFI Wild Cup to regular friendly matches. |
+|☆☆☆|[SkillCorner Open Data](https://github.com/SkillCorner/opendata)| Tracking data of 9 different Europe's top 5 leagues.
 |☆☆☆|[Canadian Premiere League - Centre Circle Data](https://canpl.ca/centre-circle-data/)| Canadian Premiere League match data on clubs and players|
 |☆☆☆|[Free open public domain football data](http://openfootball.github.io)| Free open public domain football data |
 |☆☆☆|[Football Data](https://github.com/jokecamp/FootballData)| "A hodgepodge of JSON and CSV Football data" |
@@ -113,6 +114,8 @@ or a `Comment` are also welcome.
 | --- | --- | --- |
 |★★★ |[PCA-based model to find similar players](https://shielded-spire-02166.herokuapp.com)| Really cool. [Original Code](https://github.com/parth1902/PCA_Player_Finder) |
 |★★★ |[Football Slices](https://www.footballslices.com)| Radars for 2,874 players from Europe's top 5 leagues, with stats from the 2018/19 and 2019/20 seasons. |
+|☆☆☆|[ggsoccer](https://github.com/Torvaney/ggsoccer)| "a handful of functions that make it easy to plot soccer event data in R/ggplot2" |
+|☆☆☆|[codeball](https://github.com/metrica-sports/codeball)| Methods for working with tracking and event data |
 |☆☆☆|[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
 
 ## Courses
