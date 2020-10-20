@@ -117,6 +117,7 @@ or a `Comment` are also welcome.
 |☆☆☆|[ggsoccer](https://github.com/Torvaney/ggsoccer)| "a handful of functions that make it easy to plot soccer event data in R/ggplot2" |
 |☆☆☆|[codeball](https://github.com/metrica-sports/codeball)| Methods for working with tracking and event data |
 |☆☆☆|[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
+|☆☆☆|[soccerAnimate](https://github.com/Dato-Futbol/soccerAnimate)| "An R package to create 2D animations of soccer tracking data" |
 
 ## Courses
 
