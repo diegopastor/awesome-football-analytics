@@ -123,8 +123,9 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
-|☆☆☆|[awesome-football-analytics Open Source Course](https://github.com/diegopastor/awesome-football-analytics/blob/master/COURSE.md)| A free self-taught course in football Analytics! made by and for the community | 
+|★★★|[UPPSALA UNIVERSITET's Mathematical Modelling of Football](https://uppsala.instructure.com/courses/28112)| Free video lessons on Event Data, Tracking Data, Applications and Advanced Analytics taught by Soccermatics Author David Sumpter | 
 |☆☆☆|[StatsBomb's Resource Centre](https://statsbomb.com/resource-centre/)| Has two courses: "Introduction to Analytics for Professional Football" and "Coaching and Analysing Set Pieces" |
+|☆☆☆|[awesome-football-analytics Open Source Course](https://github.com/diegopastor/awesome-football-analytics/blob/master/COURSE.md)| A free self-taught course in football Analytics! made by and for the community | 
 
 <div align='center'>
   <div>
