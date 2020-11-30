@@ -27,8 +27,11 @@ the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 - [Articles](#Articles) Places where you can find articles about football analytics in general
     - [Papers](#Papers) Links to specific papers surrounding the topic of football analytics
 - [Books](#Books) Books covering a wide range of topics all related in someway to football analytics
-- [Tools](#Tools) Different pieces of software to help you obtain, treat and visualize data for football analytics.
+- [Tools](#Tools) Different pieces of software to help you obtain, treat and visualize data for football analytics
 - [Courses](#Courses) Training courses in Football Analytics
+- [Watch full matches and highlights](#Watch-full-matches-and-highlights) Where to watch football matches and highlights
+    - [Free to watch](#Free-to-watch)
+    - [Pay to watch](#Pay-to-watch)
 
 ## Rating System
 
@@ -79,6 +82,7 @@ or a `Comment` are also welcome.
 |☆☆☆|[American Soccer Analysis](https://www.americansocceranalysis.com)| Pending Review |
 |☆☆☆|[Get Goalside!](https://getgoalside.substack.com)| Pending Review |
 |☆☆☆|[Eoin Obrien](https://eoin-obrien.com)| Pending Review |
+|☆☆☆|[Mark's Notebook](https://marksnotebook.substack.com)| Pending Review |
 
 ### Highlighted-Blog-Posts
 
@@ -124,8 +128,33 @@ or a `Comment` are also welcome.
 | ☆ | Name | Comments |
 | --- | --- | --- |
 |★★★|[UPPSALA UNIVERSITET's Mathematical Modelling of Football](https://uppsala.instructure.com/courses/28112)| Free video lessons on Event Data, Tracking Data, Applications and Advanced Analytics taught by Soccermatics Author David Sumpter | 
-|☆☆☆|[StatsBomb's Resource Centre](https://statsbomb.com/resource-centre/)| Has two courses: "Introduction to Analytics for Professional Football" and "Coaching and Analysing Set Pieces" |
+|☆☆☆|[StatsBomb's Resource Centre](https://statsbomb.com/resource-centre/)| Has two courses: "Introduction to Analytics for Professional Football" and "Coaching and Analysing Set Pieces" they are paid and cost 60£ and 360£, respectively. They can be taken online fully.|
+|☆☆☆|[Barca Innovation Hub's courses](https://barcainnovationhub.com)| Courses like "Certificate in Football Tactical Analyst" they are all paid ranging from 200€ to 1000€. Some are online and some do require physical presence.|
 |☆☆☆|[awesome-football-analytics Open Source Course](https://github.com/diegopastor/awesome-football-analytics/blob/master/COURSE.md)| A free self-taught course in football Analytics! made by and for the community | 
+
+## Watch full matches and highlights
+
+### Free to Watch
+
+| ☆ | Name | Comments |
+| --- | --- | --- |
+|★★★|[Footballia](https://footballia.net)| "The largest collection of full football matches online" including Historic matches. |
+|★★☆|[K-league](https://www.youtube.com/user/Copa90football)| Full K-league matches and other Football content |
+|★★☆|[Championnat National 1](https://ffftv.fff.fr)| French third tier match highlights and other French Football content|
+|★★☆|[German Football](https://www.youtube.com/c/GermanFootball)| German third tier full matches. German football match highlights (Cup, League, National Teams, Female League) |
+|★★☆|[Regionalliga](https://www.youtube.com/channel/UCB4X7RSx_RFye1N6PYNt57A)| German's fourth tier match highlights |
+|★★☆|[Spanish Segunda División](https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg)| Spanish second tier match highlights|
+|★★☆|[Erovnuli Liga](https://www.youtube.com/c/ErovnuliLiga/featured)| Georgian Premier League full matches |
+|★★☆|[Singaporean Premier League](https://www.youtube.com/c/SingaporePremierLeagueOfficial)| Singaporean Premier League full matches |
+|★★☆|[Thai League](https://www.youtube.com/c/ThaiLeagueOfficial/)| Thai League match highlights |
+|★★☆|[Malaysian League](https://www.youtube.com/c/MalaysianFootballLeague/)| Malaysian League match highlights |
+|★★☆|[New Zealand Championship](https://www.youtube.com/c/SkySportNext/)| New Zealand Championship full matches and other sports content |
+
+### Pay to watch
+
+| ☆ | Name | Comments |
+| --- | --- | --- |
+|★★★|[Footers](https://footters.com)| Spanish third and fourth tier full matches live and on-demand |
 
 <div align='center'>
   <div>

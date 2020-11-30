@@ -21,3 +21,7 @@ Special thanks to all the people that are publishing their work online for free!
 
 Special thanks to all of you who contributed indirectly. (Sending a resource to a contributor
 instead of submitting a Pull Request)
+
+Special Thanks to:
+
+- [Ninad Barbadikar](https://twitter.com/NinadB_06) for his [twitter thread](https://twitter.com/NinadB_06/status/1332377583925641216) compiling places for watching football for free.
