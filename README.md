@@ -121,6 +121,7 @@ or a `Comment` are also welcome.
 | ★★★ |[PCA-based model to find similar players](https://shielded-spire-02166.herokuapp.com)| Really cool. [Original Code](https://github.com/parth1902/PCA_Player_Finder) |
 | ★★★ |[Football Slices](https://www.footballslices.com)| Radars for 2,874 players from Europe's top 5 leagues, with stats from the 2018/19 and 2019/20 seasons. |
 | ★★★ |[Play by Metrica Sports](https://metrica-sports.com)| A tool for coding/tagging game footage, creating visualizations and much more. Has a free plan. |
+| ★★★ |[WagerBase](https://wagerbase.io)| Football predictions platform tracking pre-match odds movement across 63 bookmakers. Steam moves detection, xG predictions, accumulator builder. |
 | ★★★ |[ggsoccer](https://github.com/Torvaney/ggsoccer)| "a handful of functions that make it easy to plot soccer event data in R/ggplot2" |
 | ★★☆ |[codeball](https://github.com/metrica-sports/codeball)| Methods for working with tracking and event data |
 | ★★☆ |[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
