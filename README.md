@@ -64,6 +64,7 @@ or a `Comment` are also welcome.
 | ☆☆☆ |[Free open public domain football data](http://openfootball.github.io)| Free open public domain football data |
 | ☆☆☆ |[Football Data](https://github.com/jokecamp/FootballData)| "A hodgepodge of JSON and CSV Football data" |
 | ☆☆☆ |[Joe Kampschmidt's Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)| A list of datasets and APIs (Some listed here as well)| 
+| ☆☆☆ |[Namra10](https://www.namra10.com)| Live football match pages with scores, stats, TV/broadcast information, standings, team and player pages, and multilingual coverage. |
 
 ### APIs
 
