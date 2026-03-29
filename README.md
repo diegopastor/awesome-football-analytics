@@ -69,6 +69,7 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
+| ☆☆☆ |[PlayerElo](https://playerelo.football)| Player-level Elo ratings for 160,000+ individual footballers and 11,000+ coaches across 176 competitions. REST API with match predictions, transfer valuations, and historical ratings. |
 | ☆☆☆ |[football-data.org](https://www.football-data.org)| Free API with seasons, fixtures, teams and more |
 
 ## Blogs
