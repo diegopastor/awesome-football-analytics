@@ -125,6 +125,7 @@ or a `Comment` are also welcome.
 | ★★☆ |[codeball](https://github.com/metrica-sports/codeball)| Methods for working with tracking and event data |
 | ★★☆ |[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
 | ★★☆ |[soccerAnimate](https://github.com/Dato-Futbol/soccerAnimate)| "An R package to create 2D animations of soccer tracking data" |
+| ☆☆☆ |[CURSD](https://cursd.com)| Luck index ranking EPL, La Liga and Ligue 1 teams using xG, expected points (Poisson simulation), finishing quality, defensive luck, shot dominance and schedule strength |
 
 ## Courses
 
