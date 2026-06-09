@@ -69,6 +69,7 @@ or a `Comment` are also welcome.
 
 | ☆ | Name | Comments |
 | --- | --- | --- |
+| ☆☆☆ |[World Cup 2026 Tour Public API](https://ay-worldcup2026.zeabur.app/developers)| Free JSON API for all 104 World Cup 2026 fixtures with local kickoff-time conversion, match links, share-card links, and an OpenAPI spec |
 | ☆☆☆ |[football-data.org](https://www.football-data.org)| Free API with seasons, fixtures, teams and more |
 
 ## Blogs
