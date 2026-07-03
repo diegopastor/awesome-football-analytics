@@ -125,6 +125,7 @@ or a `Comment` are also welcome.
 | ★★☆ |[codeball](https://github.com/metrica-sports/codeball)| Methods for working with tracking and event data |
 | ★★☆ |[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
 | ★★☆ |[soccerAnimate](https://github.com/Dato-Futbol/soccerAnimate)| "An R package to create 2D animations of soccer tracking data" |
+| ☆☆☆ |[footytips-worldcup-backtest](https://github.com/tuofangzhe/footytips-worldcup-backtest)| Reproducible Elo + Poisson (Dixon-Coles) backtest across all 22 World Cups (964 matches, 56.6% W/D/L hit rate); zero-dependency Node.js, CC0 data, `npm run backtest` reproduces the numbers. |
 
 ## Courses
 
