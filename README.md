@@ -51,6 +51,7 @@ or a `Comment` are also welcome.
 | ☆ | Name | Comments |
 | --- | --- | --- |
 | ★★★ |[Understat](https://www.understat.com)| xG Data on Europe's top 5 Leagues |
+| ☆☆☆ |[Onside World Cup 2026 Predictions](https://onsidearena.com/data)| Open (CC BY 4.0) per-match win/draw probabilities and 10,000-run champion-simulation odds for all 104 FIFA World Cup 2026 matches, paired with actual results — a forecast-evaluation dataset. CSV + JSON. |
 | ★★☆ |[SofaScore](https://www.sofascore.com)| Live scores, lineups, standings and basic teams, coaches and players data |
 | ★★☆ |[footballxG](https://footballxg.com)| Less rich xG Data for teams including Mexican, Argentinian and Brazilian leagues.|
 | ★★☆ |[DataHub Collection](https://datahub.io/collections/football)| A collection of awesome football datasets including national teams, clubs, match schedules, players, stadiums, etc. |
