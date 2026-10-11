@@ -125,6 +125,7 @@ or a `Comment` are also welcome.
 | ★★☆ |[codeball](https://github.com/metrica-sports/codeball)| Methods for working with tracking and event data |
 | ★★☆ |[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
 | ★★☆ |[soccerAnimate](https://github.com/Dato-Futbol/soccerAnimate)| "An R package to create 2D animations of soccer tracking data" |
+| ★★☆ |[B.O.S. Sports Lab](https://bossportslab.com)| Free browser-based football calculators (bookmaker margin removal, Poisson scores, Monte Carlo, EV, Kelly) and articles with calculations on 700k+ matches. Interface in Russian; most tools require a free registration. |
 
 ## Courses
 
