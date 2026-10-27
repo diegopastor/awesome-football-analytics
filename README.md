@@ -64,6 +64,7 @@ or a `Comment` are also welcome.
 | ☆☆☆ |[Free open public domain football data](http://openfootball.github.io)| Free open public domain football data |
 | ☆☆☆ |[Football Data](https://github.com/jokecamp/FootballData)| "A hodgepodge of JSON and CSV Football data" |
 | ☆☆☆ |[Joe Kampschmidt's Guide to Football/Soccer data and APIs](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)| A list of datasets and APIs (Some listed here as well)| 
+| ☆☆☆ |[Footalytics Settled Predictions](https://github.com/footalytics/footalytics-data)| Public scored AI 1X2 predictions in CSV (free, no signup, CC BY 4.0). Pre-kickoff picks graded after the match; daily auto-update. Live board: https://footalytics.farvor.com/accuracy |
 
 ### APIs
 
