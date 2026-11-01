@@ -84,6 +84,7 @@ or a `Comment` are also welcome.
 | ☆☆☆ |[Eoin Obrien](https://eoin-obrien.com)| Pending Review |
 | ☆☆☆ |[Mark's Notebook](https://marksnotebook.substack.com)| Pending Review |
 | ☆☆☆ |[One nil](https://onenil.medium.com)| Pending Review |
+| ☆☆☆ |[Football Edge Lab](https://footballedgelab.com/)| Probabilistic football forecasts, public model evaluation, and original research with downloadable results. |
 
 ### Highlighted-Blog-Posts
 
