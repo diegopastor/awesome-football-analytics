@@ -125,6 +125,7 @@ or a `Comment` are also welcome.
 | ★★☆ |[codeball](https://github.com/metrica-sports/codeball)| Methods for working with tracking and event data |
 | ★★☆ |[Socplot](https://github.com/ArqamFC/socplot)| A python3 package that helps you visualize football data |
 | ★★☆ |[soccerAnimate](https://github.com/Dato-Futbol/soccerAnimate)| "An R package to create 2D animations of soccer tracking data" |
+| ☆☆☆ |[Footalytics](https://footalytics.farvor.com)| AI football match predictions: win/draw/loss probabilities, confidence tiers, over/under and BTTS markets, team ratings, and a publicly graded accuracy ledger of every past prediction |
 
 ## Courses
 
