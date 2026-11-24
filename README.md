@@ -70,6 +70,7 @@ or a `Comment` are also welcome.
 | ☆ | Name | Comments |
 | --- | --- | --- |
 | ☆☆☆ |[football-data.org](https://www.football-data.org)| Free API with seasons, fixtures, teams and more |
+| [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) | Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf...) with best price per outcome (Apify Actor, API + MCP) |  |
 
 ## Blogs
 
