@@ -70,6 +70,7 @@ or a `Comment` are also welcome.
 | ☆ | Name | Comments |
 | --- | --- | --- |
 | ☆☆☆ |[football-data.org](https://www.football-data.org)| Free API with seasons, fixtures, teams and more |
+| ☆☆☆ |[SportStatsAPI](https://sportstatsapi.com/)| Football API with fixtures, results, live scores and standings, down to regional leagues; free key with 100 requests a day (non-commercial, with a credit link) |
 
 ## Blogs
 
